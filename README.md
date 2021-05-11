@@ -38,10 +38,6 @@ $ python app.py
 
 * [Discord.py](https://github.com/Rapptz/discord.py) - Discord python3 API wrapper
 
-## Authors
-
-* **Jayavardhan Karampudi** - *Initial work* - [Amatobahn](https://github.com/jayavardhan3112)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
