@@ -1,6 +1,6 @@
 # discord-bot-boilerplate
 
-Starting point for creating python based Discord Bot
+Starting point for creating python based Discord Bot. Helps you in automating anything
 
 ## Requirements
 You need Python 3.4 or later to run discord-bot-boilerplate.
